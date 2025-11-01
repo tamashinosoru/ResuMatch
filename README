@@ -1,4 +1,4 @@
->>> ResuMatch** <<< (Coded in Java)
+>>> ResuMatch <<< (Coded in Java)
 
 ResuMatch is a resume-to-job description comparison tool built in Java that analyzes the textual similarity between a resume and a job post. It gives users a percentage-based match score and highlights key overlapping words. This project was created to practice practical applications of data structures and frequency maps, tokenization, and the concept of cosine similarity in Java.
 
